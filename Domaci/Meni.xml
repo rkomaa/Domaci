@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Restoran name="Kod Radisica">
+
+	<jelo id="1">
+		<naziv>Punjena pljeskavica</naziv>
+		<cena>400</cena>
+		<sastojci>Mleveno meso, kačkavalj, šunka</sastojci>
+	</jelo>
+	<jelo id="2" >
+		<naziv>Gurmanska pljeskavica</naziv>
+		<cena>380</cena>
+		<sastojci>Mleveno meso, crni luk, tucana paprika</sastojci>
+	</jelo>
+	
+	<pice id="3" >
+		<naziv>Sok od jabuke</naziv>
+		<cena>110</cena>
+		<proizvodjac>Nectar</proizvodjac>
+	</pice>
+	<pice id="4">
+		<naziv>Pivo</naziv>
+		<cena>125</cena>
+		<proizvodjac>Heineken</proizvodjac>
+	</pice>
+	
+</Restoran>
+
+
+
+
